@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to my profile! <hr>
+My name is EleverBlue. I am a YouTuber, content creator, and a developer. I'm currently working for [LaunchFight](https://github.com/LaunchFight). LaunchFight used to be owned by me, which is now owned by [Auitenti](https://github.com/Auitenti), but I'm the leader of LaunchFight.
 
-<!--
-**iamEleverBlue/iamEleverBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Here's a list of things I can do**
+- 📹 I can video edit
+- 🖥 I can work on Minecraft servers
+- 📜 I can script on Roblox
 
-Here are some ideas to get you started:
+I am **not** available for hire currently, as I'm currently working on LaunchFight, but maybe I might be available for hire soon.
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social media
+- [YouTube](https://youtube.com/@imEleverBlue)
+- [Twitter](https://twitter.com/EleverBlue)
+- [Instagram](https://instagram.com/EleverBlue)
