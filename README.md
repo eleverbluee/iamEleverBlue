@@ -6,5 +6,5 @@ My name is EleverBlue. I am a YouTuber, content creator, and a developer.
 - 🖥 I can work on Minecraft servers
 - 📜 I can script on Roblox
 
-I am **not** available for hire currently, as I'm currently working on LaunchFight, but maybe I might be available for hire soon.
+I am **not** available for hire currently.
 <hr>
